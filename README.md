@@ -1,4 +1,4 @@
-# MedBot_Game
+# [MedBot_Game](https://victor-ma.itch.io/medbot)
 
 This is a 2020 GameJam Work. MedBot is a puzzle gam - connect circuit in a specific order.
 
