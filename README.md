@@ -7,6 +7,7 @@ This is a 2020 GameJam Work. MedBot is a puzzle gam - connect circuit in a speci
 <img src = "/images/DarkRoom.gif" width = "400">
 </p>
 😎😎😎😎😎😎
+
 ***
 
 #### Dialogue 故事线
@@ -14,6 +15,7 @@ This is a 2020 GameJam Work. MedBot is a puzzle gam - connect circuit in a speci
 <img src = "/images/Dialogues.gif" width = "400">
 </p>
 😎😎😎😎😎😎
+
 ***
 
 #### Circuit 电路解谜
@@ -21,6 +23,7 @@ This is a 2020 GameJam Work. MedBot is a puzzle gam - connect circuit in a speci
 <img src = "/images/Crashed.gif" width = "400">
 </p>
 😎😎😎😎😎😎
+
 ***
 
 #### HardLevel 最后
@@ -28,4 +31,5 @@ This is a 2020 GameJam Work. MedBot is a puzzle gam - connect circuit in a speci
 <img src = "/images/Last.gif" width = "400">
 </p>
 😎😎😎😎😎😎
+
 ***
