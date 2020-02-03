@@ -1,6 +1,12 @@
 # [MedBot_Game](https://victor-ma.itch.io/medbot)
 
-This is a 2020 GameJam Work. MedBot is a puzzle gam - connect circuit in a specific order.
+This is a Puzzle game made in two days at Global Game Jam 2020.
+
+A bunch of guys totally stranger to each other made game together in 2 days. Tired but happy.😊
+
+Appreciate For: Madison Denbrock 😎Nathalie Ye 😎Yanru Chen 😎Luke Taylor 😎Elissa Ye 
+
+See if you could connect the circuit in a right order!
 
 #### DarkRoom 暗室
 <p align="left">
